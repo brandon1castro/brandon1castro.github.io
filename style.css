@@ -1,0 +1,12 @@
+body{
+    background-image: url(imagenes/espacio-body.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+nav{
+    background-color: rgb(102, 65, 86);
+}
+footer{
+    background-color: rgb(102, 65, 86);
+}
